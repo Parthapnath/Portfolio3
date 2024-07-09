@@ -319,7 +319,7 @@ form input, form textarea{
 #cross , #menu{
     display:none;
 }
-@media only screen and (max-width:350px){
+@media only screen and (max-width:600px){
     #header{
         background-image: url(image4.jpg);
 
